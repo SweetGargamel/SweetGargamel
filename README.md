@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/SweetGargamel"><img src="https://img.shields.io/badge/GitHub-SweetGargamel-181717?style=flat&logo=github" alt="GitHub"></a>
   <a href="mailto:sweetgargamel@163.com"><img src="https://img.shields.io/badge/Email-sweetgargamel%40163.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/64c50842000000000b00818b"><img src="https://img.shields.io/badge/Xiaohongshu-小红书-FF2442?style=flat" alt="Xiaohongshu"></a>
 </p>
 
 ## About Me
@@ -29,5 +30,7 @@
 ## Contact
 
 - Email: [sweetgargamel@163.com](mailto:sweetgargamel@163.com)
+- GitHub: [SweetGargamel](https://github.com/SweetGargamel)
+- Xiaohongshu: [小红书主页](https://www.xiaohongshu.com/user/profile/64c50842000000000b00818b)
 
 <p align="center">Thanks for stopping by!</p>
